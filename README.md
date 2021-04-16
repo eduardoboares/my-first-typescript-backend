@@ -22,7 +22,8 @@
 <h5 align="center">
   <a href="#-introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#attributes-used">Attributes used</a>
+  <a href="#attributes-used">Attributes used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-reference">Reference</a>
 </h5><br>
 
 # 📖 Introduction<br>
@@ -47,7 +48,10 @@ Express.js is a Node.js web application server framework, designed for building 
 It restarts target node process when any of required files changes (as standard node-dev) but shares Typescript compilation process between restarts. Perfect to development.
 
 <h3>🚧 Cors</h3>
-Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any other origins (domain, scheme, or port) than its own from which a browser should permit loading of resources.<br><br><br><br><br>
+Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any other origins (domain, scheme, or port) than its own from which a browser should permit loading of resources.<br>
+
+# 🔗 Reference<br>
+FERNANDES, Diego. TypeScript, o início, de forma prática | MasterClass #07. Available in: https://www.youtube.com/watch?v=0mYq5LrQN1s Access in: 16 april 2021.<br><br><br><br><br>
 
 <div align="center">
 👉🏼 <a href="https://www.linkedin.com/in/eduardo-pereira-boares/">See my Linkedin</a> 👈🏼
