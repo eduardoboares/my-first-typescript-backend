@@ -1,4 +1,4 @@
-<h1 align="center">My first backend typescript</h1>
+<h1 align="center">My first typescript back-end</h1>
 
 <!-- E02041 -->
 <p align="center">
@@ -19,7 +19,8 @@
 
 <h5 align="center">
   <a href="#-introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#attributes-used">Attributes used</a>
 </h5><br>
 
 # 📖 Introduction<br>
