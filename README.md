@@ -2,16 +2,18 @@
 
 <!-- E02041 -->
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EduardoPereiraBoares/my-first-typescript-backend?color=%23E02041">
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EduardoPereiraBoares/my-first-typescript-backend?color=%23E02041">
 
   <a href="https://github.com/Group2IntegrationProject/back-end/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduardoPereiraBoares/my-first-typescript-backend?color=%23E02041">
-  </a>
-
-  <a href="https://github.com/Group2IntegrationProject/back-end/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EduardoPereiraBoares/my-first-typescript-backend?color=%23E02041">
   </a>
 
    <img alt="GitHub" src="https://img.shields.io/github/license/EduardoPereiraBoares/my-first-typescript-backend?color=%23E02041">
